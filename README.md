@@ -8,6 +8,7 @@ Homebrew tap for [Galacius](https://github.com/galacius/galacius), a lightweight
 
 ```bash
 brew tap galacius/homebrew-galacius
+brew trust galacius/galacius/galacius
 brew install galacius
 ```
 
