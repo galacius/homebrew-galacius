@@ -1,6 +1,6 @@
 cask "galacius" do
-  version "1.3.2"
-  sha256 "2fc6ce721f1339a80538450a9bb37bf9ed883aa947963d9c073df18e74e7576e"
+  version "1.3.3"
+  sha256 "fdbbf6fe48d4a2a360c9cff6ec433ba3e0acac291f7c78d7de65ba04e29de206"
 
   url "https://github.com/galacius/galacius/releases/download/v#{version}/galacius-darwin-arm64.zip"
   name "Galacius"
